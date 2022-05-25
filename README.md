@@ -1,7 +1,13 @@
-# Hello-Microverse
-Project Name
- setting up my Hello Microverse project
 
+Project Name
+Making Hello Micorverse Project
+
+Built With
+-HTML
+-CSS
+
+Getting Started:
+This is simple project from microverse how to setup a repo in your local machine.
 
 👤 Author
 
