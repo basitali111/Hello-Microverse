@@ -1,5 +1,4 @@
 
-Project Name
  Making Hello Microverse project 
 
 Built With
@@ -29,4 +28,5 @@ Hat tip to anyone whose code was used
 Inspiration
 etc
 📝 License
-This project is MIT licensed.
+This project is [MIT](./MIT.md) licensed.
+
