@@ -1,13 +1,15 @@
 
 Project Name
-Making Hello Micorverse Project
+ Making Hello Microverse project 
 
 Built With
--HTML
--CSS
+HTML
+Css
 
-Getting Started:
-This is simple project from microverse how to setup a repo in your local machine.
+Project Description:
+This is simple hello project by microverse how to install and mantain a repo in your local machine.
+we add linters for error correction and add some files like index.html and style.css files and
+ configure it with linters to check error.
 
 👤 Author
 
@@ -22,6 +24,9 @@ Feel free to check the issues page.
 Show your support
 Give a ⭐️ if you like this project!
 
-
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
 📝 License
 This project is MIT licensed.
